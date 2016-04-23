@@ -1,10 +1,10 @@
-var startdelay 		= 2; 		// START SCROLLING DELAY IN SECONDS
+var startdelay 		= 1; 		// START SCROLLING DELAY IN SECONDS
 var scrollspeed		= 1.1;		// ADJUST SCROLL SPEED
 var scrollwind		= 1;		// FRAME START ADJUST
-var speedjump		= 30;		// ADJUST SCROLL JUMPING = RANGE 20 TO 40
+var speedjump		= 20;		// ADJUST SCROLL JUMPING = RANGE 20 TO 40
 var nextdelay		= 0; 		// SECOND SCROLL DELAY IN SECONDS 0 = QUICKEST
 var topspace		= "2px";	// TOP SPACING FIRST TIME SCROLLING
-var frameheight		= 50;		// IF YOU RESIZE THE CSS HEIGHT, EDIT THIS HEIGHT TO MATCH
+var frameheight		= 450;		// IF YOU RESIZE THE CSS HEIGHT, EDIT THIS HEIGHT TO MATCH
 
 
 current = (scrollspeed);
